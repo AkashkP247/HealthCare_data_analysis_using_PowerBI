@@ -1,5 +1,6 @@
 # HealthCare Dashboard-PowerBI
 📌 Overview
+
 Designed a dynamic Power BI dashboard to analyze hospital visitor trends for informed decision-making. Utilized Power Query for data transformation and DAX for advanced calculations. This tool enhances resource optimization, operational efficiency, and patient satisfaction using interactive KPIs and visuals.
 
 📚 Table of Contents
