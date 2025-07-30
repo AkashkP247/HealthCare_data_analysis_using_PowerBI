@@ -3,87 +3,98 @@
 Designed a dynamic Power BI dashboard to analyze hospital visitor trends for informed decision-making. Utilized Power Query for data transformation and DAX for advanced calculations. This tool enhances resource optimization, operational efficiency, and patient satisfaction using interactive KPIs and visuals.
 
 📚 Table of Contents
-Key Technologies and Skills
 
-Features
+ 1.Key Technologies and Skills
 
-Contributing
+ 2.Features
 
-License
+ 3.Contributing
 
-Contact
+ 4.Contact
 
 🚀 Key Technologies and Skills
-Power BI
 
-Power Query Editor
+ 1. Power BI
 
-DAX (Data Analysis Expressions)
+ 2. Power Query Editor
 
-Excel
+ 3. DAX (Data Analysis Expressions)
+
+ 4. Excel
 
 🌟 Features
-📊 Data Understanding
+
+📊 Data Understanding:
+
 Explored features like gender, age, race, time of visit, day of the week, admin flag, satisfaction score, and department referrals to understand demographics and usage patterns.
 
-🧹 Data Preprocessing
-ETL pipeline using Power Query
+🧹 Data Preprocessing:
 
-Table normalization for better structure
+ 1. ETL pipeline using Power Query
 
-Missing value imputation for consistency
+ 2. Table normalization for better structure
 
-🧠 Data Modeling & DAX
-Defined relationships between tables
+ 3. Missing value imputation for consistency
 
-Created calculated fields for custom metrics
+🧠 Data Modeling & DAX:
 
-Enabled in-depth analysis through KPIs
+ 1. Defined relationships between tables
 
-📈 Visit Trends
-Daily & Monthly: End-of-month and summer/rainy seasons see spikes
+ 2. Created calculated fields for custom metrics
 
-Yearly: 5.8% increase in 2020 vs. 2019
+ 3. Enabled in-depth analysis through KPIs
 
-Quarterly: Q2 & Q3 had 53.9% more visitors than Q1 & Q4
+📈 Visit Trends:
 
-⏱ Time-Based Insights
-Balanced AM/PM visits (AM leads by 0.6%)
+ 1. Daily & Monthly: End-of-month and summer/rainy seasons see spikes
 
-Mondays & Wednesdays are busiest; Fridays are lowest
+2. Yearly: 5.8% increase in 2020 vs. 2019
 
-Weekdays have 148.83% higher visits than weekends
+3. Quarterly: Q2 & Q3 had 53.9% more visitors than Q1 & Q4
 
-⏳ Wait Time Analysis
-Avg wait: 35 minutes
+⏱ Time-Based Insights:
 
-90.9% wait between 20–60 mins
+ 1. Balanced AM/PM visits (AM leads by 0.6%)
 
-Only 9.1% have short waits (10–20 mins), highlighting process improvement areas
+ 2. Mondays & Wednesdays are busiest; Fridays are lowest
 
-👥 Demographics
-Broad age range, with 75+ at just 5.04%
+3. Weekdays have 148.83% higher visits than weekends
 
-Diverse racial representation
+⏳ Wait Time Analysis:
 
-Male visitors slightly exceed female by 4.86%
+ 1. Avg wait: 35 minutes
 
-🏥 Satisfaction & Departments
-Avg satisfaction: 5/10 (neutral)
+ 2. 90.9% wait between 20–60 mins
 
-30.75% referrals from General Practice & Ortho
+ 3. Only 9.1% have short waits (10–20 mins), highlighting process improvement areas
 
-58.67% visitors are non-referred
+👥 Demographics:
 
-Nearly half of visitors are not registered patients
+ 1. Broad age range, with 75+ at just 5.04%
+
+ 2. Diverse racial representation
+
+ 3. Male visitors slightly exceed female by 4.86%
+
+🏥 Satisfaction & Departments:
+
+ 1. Avg satisfaction: 5/10 (neutral)
+
+ 2. 30.75% referrals from General Practice & Ortho
+
+ 3. 58.67% visitors are non-referred
+
+ 4. Nearly half of visitors are not registered patients
 
 <img width="905" height="768" alt="image" src="https://github.com/user-attachments/assets/b052299c-6d67-4fb3-aa3b-f5b9304db383" />
 <img width="905" height="768" alt="image" src="https://github.com/user-attachments/assets/591cfe0a-f0fd-49d3-977c-86d20726e24d" />
 
-🤝 Contributing
+🤝 Contributing:
+
 Contributions are welcome! Feel free to fork this repo, submit issues, or open a pull request.
 
-📬 Contact
+📬 Contact:
+
 Akash Kumar Pathak
 📧 akash.kumar7181799@gmail.com
 🔗 www.linkedin.com/in/akash-kumar-pathak-718233257
