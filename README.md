@@ -1,8 +1,8 @@
 # HealthCare Dashboard-PowerBI
-Overview
-Built an interactive Power BI dashboard to analyze hospital visitor data, enabling data-driven decisions. Leveraged DAX for insights on demographics and service usage, improving operational efficiency and patient satisfaction. Integrated data from multiple sources using Power Query and applied KPIs for real-time visualization.
+📌 Overview
+Designed a dynamic Power BI dashboard to analyze hospital visitor trends for informed decision-making. Utilized Power Query for data transformation and DAX for advanced calculations. This tool enhances resource optimization, operational efficiency, and patient satisfaction using interactive KPIs and visuals.
 
-Table of Contents
+📚 Table of Contents
 Key Technologies and Skills
 
 Features
@@ -13,7 +13,7 @@ License
 
 Contact
 
-Key Technologies and Skills
+🚀 Key Technologies and Skills
 Power BI
 
 Power Query Editor
@@ -22,48 +22,70 @@ DAX (Data Analysis Expressions)
 
 Excel
 
-Features
-1. Data Understanding:
-Analyzed features like date, age, gender, race, visit time (AM/PM), weekdays/weekends, admin status, department, and satisfaction score to extract demographic and operational insights.
+🌟 Features
+📊 Data Understanding
+Explored features like gender, age, race, time of visit, day of the week, admin flag, satisfaction score, and department referrals to understand demographics and usage patterns.
 
-2. Data Preprocessing:
-Performed ETL via Power Query; normalized tables and handled missing data through imputation to maintain data integrity.
+🧹 Data Preprocessing
+ETL pipeline using Power Query
 
-3. Data Modeling & DAX:
-Used DAX for calculated fields and built relationships across tables to support advanced analytics and meaningful KPIs.
+Table normalization for better structure
 
-4. Visit Trends:
+Missing value imputation for consistency
 
-Daily/Monthly/Yearly: Visitor counts peak at month-end, increase during summer/rainy seasons, and rose by 5.8% from 2019 to 2020.
+🧠 Data Modeling & DAX
+Defined relationships between tables
 
-Quarterly: Q2 and Q3 saw 53.9% higher traffic, indicating seasonal illness spikes.
+Created calculated fields for custom metrics
 
-5. Time-Based Insights:
+Enabled in-depth analysis through KPIs
 
-AM/PM visits are evenly split (slight AM lead).
+📈 Visit Trends
+Daily & Monthly: End-of-month and summer/rainy seasons see spikes
 
-Mondays and Wednesdays are busiest; Fridays are slowest.
+Yearly: 5.8% increase in 2020 vs. 2019
 
-Weekday traffic is 148.83% higher than weekends due to reduced weekend services.
+Quarterly: Q2 & Q3 had 53.9% more visitors than Q1 & Q4
 
-6. Wait Time Analysis:
+⏱ Time-Based Insights
+Balanced AM/PM visits (AM leads by 0.6%)
 
-Avg wait: 35 mins; 90.9% wait 20–60 mins.
+Mondays & Wednesdays are busiest; Fridays are lowest
 
-Only 9.1% experience fast (10–20 min) service—signaling improvement potential.
+Weekdays have 148.83% higher visits than weekends
 
-7. Demographics:
+⏳ Wait Time Analysis
+Avg wait: 35 minutes
 
-Age range: evenly distributed; 75+ age group only 5.04%.
+90.9% wait between 20–60 mins
 
-Race: Mostly White & African American; 11.37% are Pacific Islander/Native American.
+Only 9.1% have short waits (10–20 mins), highlighting process improvement areas
 
-Gender: 4.86% more males; "Not Specified" is minimal.
+👥 Demographics
+Broad age range, with 75+ at just 5.04%
 
-8. Satisfaction & Departments:
+Diverse racial representation
 
-Avg satisfaction: 5/10 — neutral feedback.
+Male visitors slightly exceed female by 4.86%
 
-30.75% visits to General Practice & Orthopedics; 58.67% non-referred visitors.
+🏥 Satisfaction & Departments
+Avg satisfaction: 5/10 (neutral)
 
-Admin Flag: 50% are non-patients, indicating high visitor volume beyond registered patients.
+30.75% referrals from General Practice & Ortho
+
+58.67% visitors are non-referred
+
+Nearly half of visitors are not registered patients
+
+<img width="905" height="768" alt="image" src="https://github.com/user-attachments/assets/b052299c-6d67-4fb3-aa3b-f5b9304db383" />
+<img width="905" height="768" alt="image" src="https://github.com/user-attachments/assets/591cfe0a-f0fd-49d3-977c-86d20726e24d" />
+
+🤝 Contributing
+Contributions are welcome! Feel free to fork this repo, submit issues, or open a pull request.
+
+📬 Contact
+Akash Kumar Pathak
+📧 akash.kumar7181799@gmail.com
+🔗 www.linkedin.com/in/akash-kumar-pathak-718233257
+
+
